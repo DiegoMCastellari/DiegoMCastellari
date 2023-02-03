@@ -24,28 +24,31 @@
 </ul>    
    
 <h1 style="color: #0098BE; font-size: 28px; font-weight: bold; font-family: 'Open Sans', 'Helvetica Neue', sans-serif;">Contact</h1>
+<a href=""><img style="height: 35px; padding-left: 5px;" class="iconIG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram"></a>
+<a href="https://github.com/DiegoMCastellari"><img style="height: 35px; padding-left: 5px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github"></a>
+<a href="https://www.linkedin.com/in/diegocastellari/"><img style="height: 35px; padding-left: 5px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/640px-Linkedin_icon.svg.png" alt="LinkedIn"></a>
+<a href="https://www.notion.so/Main-36df73c9a5134345b7807f99717bd5b5"><img style="height: 35px; padding-left: 5px;"  src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion"></a>
 <p style="color: black; font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 18px"><b>Mail:</b> agrimcastellari@gmail.com</p>
 <p style="color: black; font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 18px"><b>Web: </b>https://diegomcastellari.github.io/ <a href="https://diegomcastellari.github.io/">>>> Go >>></a> </p>
-<a href=""><img style="height: 35px; padding-left: 5px;" class="iconIG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="Instagram"></a>
-<a href="https://github.com/DiegoMCastellari"><img style="height: 35px; padding-left: 5px;" class="iconGH" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github"></a>
-<a href="https://www.linkedin.com/in/diegocastellari/"><img style="height: 35px; padding-left: 5px;" class="iconLI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="LinkedIn"></a>
-<a href="https://www.notion.so/Main-36df73c9a5134345b7807f99717bd5b5"><img style="height: 35px; padding-left: 5px;" class="iconLI" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion"></a>
+
+
 <br><br>
+
 <section style="padding: 30px 40px; display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; justify-content: center;">
-    <img style="height: 120px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python">
-    <img style="height: 120px; padding: 10px;" class="softimgitem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas">
-    <img style="height: 120px; padding: 10px;" src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="geopandas">
-    <img style="height: 120px; padding: 10px;" src="https://res.cloudinary.com/geopois/image/upload/v1623659915/logos/PyQGIS_cjh1qc.png" alt="pyqgis">
-    <img style="height: 120px; padding: 10px;" src="https://i0.wp.com/www.datavision.net.au/wp-content/uploads/2018/05/arcpy700x394.png?fit=700%2C394&ssl=1" alt="arcpy">
-    <img style="height: 120px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib">   
-    <img style="height: 120px; padding: 10px;" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="plotly"> 
-    <img style="height: 120px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="opencv">
-    <img style="height: 120px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikitlearn">
-    <img style="height: 120px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="pytorch">
-    <img style="height: 120px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql">
-    <img style="height: 120px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html">
-    <img style="height: 120px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css">
-    <img style="height: 120px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript">
+    <img style="height: 100px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python">
+    <img style="height: 100px; padding: 10px;" class="softimgitem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas">
+    <img style="height: 100px; padding: 10px;" src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="geopandas">
+    <img style="height: 100px; padding: 10px;" src="https://res.cloudinary.com/geopois/image/upload/v1623659915/logos/PyQGIS_cjh1qc.png" alt="pyqgis">
+    <img style="height: 100px; padding: 10px;" src="https://i0.wp.com/www.datavision.net.au/wp-content/uploads/2018/05/arcpy700x394.png?fit=700%2C394&ssl=1" alt="arcpy">
+    <img style="height: 100px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib">   
+    <img style="height: 100px; padding: 10px;" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="plotly"> 
+    <img style="height: 100px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="opencv">
+    <img style="height: 100px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="scikitlearn">
+    <img style="height: 100px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="pytorch">
+    <img style="height: 100px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql">
+    <img style="height: 100px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html">
+    <img style="height: 100px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css">
+    <img style="height: 100px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript">
 </section>
 
 <!--
